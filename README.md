@@ -14,3 +14,7 @@ npm i @mercurial-finance/dynamic-amm-sdk @coral-xyz/anchor @solana/web3.js @sola
 ## Run examples
 `bun swap_quote.ts`
 
+# Contact
+
+### Telegram: [dogewhiz](https://t.me/dogewhiz)   
+https://t.me/dogewhiz
