@@ -69,8 +69,3 @@ yarn format
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-## 📜 License
-MIT License © 2025 [Your Name](https://github.com/0xSabonis)
-
-## 📞 Contact
-- Telegram: [@dogewhiz](https://t.me/dogewhiz)
