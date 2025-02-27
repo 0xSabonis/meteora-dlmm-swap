@@ -1,6 +1,6 @@
 # Meteora DLMM Swap
 
-_A High-Performance Solana Swap using Meteora's DLMM_
+_A High-Performance Solana Swap using Meteora's DLMM
 
 ## 🚀 Overview
 Meteora DLMM Swap is a high-speed decentralized liquidity management market (DLMM) swap implementation for the Solana blockchain. This tool allows users to swap tokens efficiently using Meteora's liquidity pools.
